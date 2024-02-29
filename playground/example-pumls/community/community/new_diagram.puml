@@ -1,0 +1,15 @@
+@startmindmap
+*[#000000] <color:#FFFFFF><&infinity> Argument Map
+**[#2196F3] <color:#BBDEFB><&comment-square> Companies and enterprises should begin transitioning from shareholder supremacy to stakeholder ownership
+***[#4CAF50] <color:#C8E6C9><&check> Economic Efficiency
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Stakeholder models distribute resources more effectively, leading to a healthier economy
+***[#4CAF50] <color:#C8E6C9><&check> Ethical Considerations
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Prioritizing stakeholders over shareholders aligns with broader social responsibilities and ethics
+***[#4CAF50] <color:#C8E6C9><&check> Long-term Sustainability
+****[#8BC34A] <color:#DCEDC8><&zoom-in> A stakeholder focus ensures the long-term survival and prosperity of businesses by considering environmental and social impacts
+***[#F44336] <color:#FFCDD2><&x> Objection: Shareholder supremacy ensures the best economic outcomes
+****[#FF9800] <color:#FFE0B2><&zoom-out> Counter Evidence: Short-term profit focus can lead to unsustainable practices and harm long-term interests
+****[#FFC107] <color:#FFECB3><&media-pause> Rebuttal: Evidence shows that companies focusing on stakeholders often outperform those prioritizing only shareholders in the long run
+@endmindmap@startuml
+' Copy your diagram content here
+@enduml
